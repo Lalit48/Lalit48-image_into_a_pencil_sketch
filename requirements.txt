@@ -6,3 +6,12 @@ werkzeug==2.0.1
 
 # This line tells pip to avoid building numpy from source
 --only-binary=numpy
+
+
+flask==2.0.1
+opencv-python==4.5.5.64
+werkzeug==2.0.1
+numpy==1.23.5
+gunicorn==20.1.0
+
+--only-binary=numpy
